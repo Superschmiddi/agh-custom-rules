@@ -64,6 +64,7 @@
 @@||cwwk.net^$important
 ###OracleCloud
 @@||console-telemetry.oci.oraclecloud.com^$important
+@@||c.go-mpulse.net^$important
 @@||telemetry.eu-frankfurt-1.oraclecloud.com^$important
 ###Plotter
 @@||featuregates.org^$important
