@@ -13,7 +13,7 @@
 ||castoola.tv^
 ||yumenetworks.com^
 ||lgtvcommon.com^
-@@||de.nextlgsdp.com^$important
+#@@||de.nextlgsdp.com^$important
 ||nextlgsdp.com^
 ||elsa.lgecloudapm.com^
 ||lgrecommends.lgappstv.com^
